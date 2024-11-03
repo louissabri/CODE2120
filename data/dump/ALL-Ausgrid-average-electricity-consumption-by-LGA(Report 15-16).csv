@@ -1,0 +1,76 @@
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Local Government Area,Daily average household electricity use (kWh per customer per day),Residential Totals,,,,,Solar ,,,"Non-residential small-medium sites
+(0-160 MWh pa)",,"Non-residential large sites
+(>160 MWh pa)",
+,,General Supply (MWh),Off Peak Hot Water (MWh),Total (MWh),No of Off Peak Customers,Total number of Customers,Number of solar customers,Generation capacity (kWp),Energy exported to the grid (MWh),MWh,Number of Customers,MWh,Number of Customers
+ASHFIELD,12,"77,818","3,660","81,478","2,312","18,658",595,"1,713","1,152","27,356","1,318","45,893",88
+AUBURN,12.4,"124,205","10,322","134,527","4,394","29,664","2,802","6,741","3,535","116,800","3,836","448,420",544
+BANKSTOWN,17.3,"359,995","67,387","427,382","27,144","67,799","5,421","16,330","10,540","145,614","7,135","460,289",591
+BOTANY BAY,12.3,"75,823","6,255","82,078","3,144","18,305",622,"2,282","1,289","68,572","2,736","146,901",304
+BURWOOD,13.2,"62,221","4,424","66,645","2,388","13,788",585,"1,701","1,201","38,199","1,796","91,262",114
+CANADA BAY,13.8,"178,885","9,973","188,857","5,671","37,377","1,241","3,533","2,574","65,589","2,849","143,870",255
+CANTERBURY,13.5,"254,540","22,009","276,549","11,600","56,319","2,709","7,528","5,245","81,897","4,411","114,635",207
+CESSNOCK,18.9,"133,659","23,856","157,515","10,954","22,865","2,780","10,347","6,573","40,730","1,804","72,089",155
+GOSFORD,17.2,"391,145","101,755","492,900","46,208","78,568","7,395","20,515","14,815","129,937","6,762","286,393",433
+HORNSBY,19.1,"345,222","60,131","405,353","24,095","58,111","5,237","14,274","10,276","86,824","4,453","181,046",296
+HUNTERS HILL,22.4,"41,446","3,382","44,827","1,478","5,483",257,787,517,"9,479",441,"17,182",28
+HURSTVILLE,15,"151,897","26,653","178,551","11,965","32,678","2,038","5,338","4,022","65,977","3,669","91,089",174
+KOGARAH,15.8,"115,229","18,215","133,444","8,121","23,151","1,205","3,367","2,476","33,561","1,905","77,869",94
+KU-RING-GAI,23.3,"327,682","38,343","366,025","15,975","42,974","2,617","7,992","4,960","57,633","2,642","98,678",177
+LAKE MACQUARIE,17.8,"424,962","109,958","534,921","54,345","82,332","10,394","29,470","23,656","120,808","6,354","208,947",427
+LANE COVE,16.7,"86,667","5,130","91,797","2,588","15,079",648,"1,976","1,241","37,085","1,548","69,961",163
+LEICHHARDT,12.8,"116,030","4,919","120,949","3,271","25,977",970,"2,668","1,729","58,546","3,069","57,633",140
+MAITLAND,18.2,"174,055","28,735","202,791","13,356","30,491","3,661","11,658","8,860","58,588","2,905","94,479",207
+MANLY,15.3,"99,619","9,653","109,272","4,960","19,626",728,"2,112","1,552","35,915","1,849","49,235",98
+MARRICKVILLE,11.5,"153,882","6,693","160,574","4,082","38,226","1,484","5,492","2,865","89,610","4,403","130,274",264
+MOSMAN,18.6,"90,201","4,682","94,882","2,071","13,950",348,"1,169",729,"22,841","1,213","19,846",68
+MUSWELLBROOK,21,"45,265","10,543","55,808","4,499","7,266",666,"2,745","2,225","30,004","1,339","26,132",80
+NEWCASTLE,14.2,"304,752","57,178","361,930","31,070","69,826","6,473","18,929","15,103","173,201","7,926","292,876",596
+NORTH SYDNEY,12.1,"163,863","6,044","169,907","3,000","38,618",393,"1,163",735,"145,689","6,421","222,901",450
+PITTWATER,18.3,"151,619","18,440","170,059","8,916","25,503","1,732","5,084","3,699","48,751","2,950","59,101",115
+PORT STEPHENS,17.5,"162,168","47,112","209,280","23,749","32,827","4,165","12,635","10,136","52,356","2,929","103,083",214
+RANDWICK,13.2,"271,793","22,540","294,333","10,934","61,121","1,778","5,097","3,999","76,515","3,478","193,831",297
+ROCKDALE,13.3,"189,371","25,951","215,322","12,913","44,295","1,731","4,795","3,491","59,704","3,055","81,433",196
+RYDE,14.7,"225,861","24,329","250,190","11,105","46,699","2,476","6,766","4,763","114,309","4,413","451,466",618
+SINGLETON,23,"66,091","14,836","80,927","6,185","9,656","1,231","4,846","3,871","30,195","1,702","48,149",105
+STRATHFIELD,15.2,"75,694","5,024","80,719","2,445","14,585",638,"2,149","1,340","37,443","1,525","129,344",179
+SUTHERLAND,20,"516,449","114,778","631,227","43,951","86,586","5,908","16,990","12,844","143,374","7,320","244,093",388
+SYDNEY,10.4,"398,372","10,298","408,669","5,129","107,390",908,"4,620","1,681","770,078","31,138","2,409,442","3,174"
+UPPER HUNTER,21,"35,122","8,206","43,328","3,551","5,654",574,"2,434","1,937","24,173","1,261","15,961",48
+WARRINGAH,16.2,"309,294","42,110","351,404","19,748","59,558","4,017","11,791","8,849","127,419","6,483","212,532",352
+WAVERLEY,13.5,"159,813","6,259","166,072","3,607","33,821",697,"1,963","1,454","67,380","3,352","103,680",186
+WILLOUGHBY,15.5,"161,859","9,901","171,760","5,191","30,367","1,361","4,202","2,842","126,969","5,177","290,674",429
+WOOLLAHRA,19.5,"188,584","9,669","198,253","4,307","27,784",432,"1,576",936,"58,170","2,964","52,715",125
+WYONG,16.8,"342,035","77,185","419,219","35,967","68,332","8,251","22,328","16,603","94,706","5,187","257,413",363
+Total,15.7,"7,553,188","1,076,538","8,629,726","496,390","1,501,310","97,168","287,108","206,317","3,571,997","165,718","8,100,819","12,744"
+,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,
+"1. Electricity use data is from network billing data to Dec, 2016 for homes, businesses and other customers in our network area.",,,,,,,,,,,,,
+"2. Electricity use data does not include high voltage customers and supply to services such as public lighting and bus shelters, or customers outside these 39 Local Government Areas",,,,,,,,,,,,,
+3. Electricity use data has been split into four categories:,,,,,,,,,,,,,
+i) 'General Supply' refers to electricity used from the grid in residential properties excluding controlled load (off peak) hot water.,,,,,,,,,,,,,
+ii) 'Off peak hot water' refers primarily to controlled load residential usage primarily from storage hot water systems.,,,,,,,,,,,,,
+iii) 'Non-residential small-medium sites' refers to non-residential customers supplied at low voltage with annual usage from the grid typically less than 160 MWh per year.,,,,,,,,,,,,,
+iv) 'Non-residential large sites' refer to non-residential customers supplied at low voltage with annual usage from the grid typically greater than 160 MWh per year.,,,,,,,,,,,,,
+4. Customer numbers are the average number of customers over the financial year.,,,,,,,,,,,,,
+5. Solar energy generation is the total electricity exported to the grid from small solar power systems recorded by electricity meters. The total includes electricity exported from both gross and net metered solar power systems. ,,,,,,,,,,,,,
+Note that this total does not include the solar power used directly within homes and businesses with a net metering arrangement.,,,,,,,,,,,,,
+6. Number of solar customers and solar panel capacity are figures recorded as connected by Ausgrid as at 30 June. There may be differences between this figure and other external data sources (eg. Clean Energy Regulator).,,,,,,,,,,,,,
+7. Year to year changes are strongly influenced by weather.  Data has not been corrected for weather variations or other factors.,,,,,,,,,,,,,
+8. Data should be used with caution when comparing with ABS data or other external data sources.  Contact Ausgrid for assistance in interpreting data.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"For further advice or assistance with interpreting this data, contact us at sharinginformation@ausgrid.com.au",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

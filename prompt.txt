@@ -1,0 +1,56 @@
+build me a pandas based jupyter notebook to clean and analyse population & energy use data. The notebook should include analysis of both data sets individually, followed by analysis and comparison of the two data sets together. The final output should be ONE dataset combining basic stats and analysis of both data sets individually, as well as comparative analysis of the two datasets together.
+
+Details:
+Energy use dataset:
+There are 13 files containing Ausgrid energy use for 2009-2023. The columns are as follows: MWh	Number of Customers	Average kWh per customer per day	MWh	MWh	Number of Customers	MWh	MWh	Number of Customers	MWh	Number of Customers	MWh	Number of Customers	Average kWh per customer per day	MWh	MWh	Number of Customers	MWh	MWh	Number of Customers	MWh	Number of Customers
+
+The rows for this data set are LGAs that Ausgrid serves:
+ASHFIELD
+AUBURN
+BANKSTOWN
+BOTANY BAY
+BURWOOD
+CANADA BAY
+CANTERBURY
+CESSNOCK
+GOSFORD
+HORNSBY
+HUNTERS HILL
+HURSTVILLE
+KOGARAH
+KU-RING-GAI
+LAKE MACQUARIE
+LANE COVE
+LEICHHARDT
+MAITLAND
+MANLY
+MARRICKVILLE
+MOSMAN
+MUSWELLBROOK
+NEWCASTLE
+NORTH SYDNEY
+PITTWATER
+PORT STEPHENS
+RANDWICK
+ROCKDALE
+RYDE
+SINGLETON
+STRATHFIELD
+SUTHERLAND
+SYDNEY
+UPPER HUNTER
+WARRINGAH
+WAVERLEY
+WILLOUGHBY
+WOOLLAHRA
+WYONG
+Total
+
+
+Population dataset:
+There are 4 files containing population data broken down by age and LGA. 
+The columns are age categories, I only care about the totals for each LGA.
+
+The rows are all NSW LGAs. I only care about the LGAs that are ALSO available in the energy use dataset. All data from other LGAs is irrelevant.
+
+Generate the full contents of the jupyter noetbook based on these details, and list the required pip packages for the project
